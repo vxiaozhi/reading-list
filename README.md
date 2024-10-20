@@ -484,4 +484,6 @@
 1. 硅谷商战， by 李彦宏 [阅读链接](https://zhuanlan.zhihu.com/p/709173013)
 1. 智能交通， by 李彦宏
 1. 智能经济， by 李彦宏
+1. 创业就是要细分垄断  by 傅盛 [科技爱好者周刊（第 321 期）：傅盛回忆录](https://github.com/ruanyf/weekly/blob/master/docs/issue-321.md)
+1. 东方马车 by  卢跃刚
 
